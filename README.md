@@ -26,7 +26,7 @@ Podemos ver aqui la pagina final donde he rellenado los parametros con mi nombre
 
 Ahora esta captura sale justo despues de darle al boton add birthday y se puede ver como al final sale mi nombre Daniel y mi cumpleaños el 15/9 que ya sale despues de darle al boton 
 
-![captura imagen 3](imagenes/Cumple2png)
+![captura imagen 3](imagenes/Cumple2.png)
 
 ---
 
